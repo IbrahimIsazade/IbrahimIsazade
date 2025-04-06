@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ASP.NET Core, Web API<br>🎯 Goals: Finish learning<br>🎲 Fun fact: Battery has a smooth surface</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning .NET Core 9 (ASP.NET), Web API<br>🎯 Goals: Practice knowledge<br>🎲 Fun fact: Battery has a smooth surface</p>
 
 ###
 
