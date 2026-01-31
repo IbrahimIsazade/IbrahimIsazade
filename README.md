@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">Full-Stack Back-End developer from Baku, Azerbaijan. I develop new solutions. I like writing ASP.NET Web APIs using tons of different technologies.</h3>
 
-- 🔭 I’m currently working on [Male Fashion](https://github.com/IbrahimIsazade/MaleFashion)
+- 🔭 I’m currently working on [CryLog API](https://github.com/IbrahimIsazade/CryLogAPI)
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
